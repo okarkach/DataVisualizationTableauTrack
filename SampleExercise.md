@@ -5,7 +5,7 @@
 
 **Alternative Exercise type:** Multiple Choice with Console
 
-Learning Objectives:
+**Learning Objectives:**
 
 - Learner will be able to add data cleaning steps
 
@@ -15,9 +15,9 @@ Learning Objectives:
 
 **Title:**  Adding Cleaning Steps and Converting Data Types
 
-One of the most important steps in a data cleaning workflow is to convert our fields to the right data type.
+One of the most important steps in a data cleaning workflow is to assess if the data fields are of the approriate type.
 
-In this exercise, you will learn how to add cleaning steps and convert fields to the appropriate data type.
+In this exercise, you will learn how to add cleaning steps and convert fields data type accordingly. 
 
 A dataframe  ‘customers’ is loaded for you.
 
@@ -48,13 +48,13 @@ A dataframe  ‘customers’ is loaded for you.
 
 ![enter image description here](https://lh3.googleusercontent.com/hClX2gXYaIEI87hpJGyRlgMQ7ZiEcMGaO-ooNG4eXGD5l7GIdMZA7ziq1FZYxzEfe1uIqPnz-i8 "Adding Cleaning Step")
 
-· On the ‘City’ field click on Abc and change the geographic role to City on the dropdown menu
+· On the ‘City’ field click on Abc and change the data type to a geographic role by selecting City on the dropdown menu
 
 ![enter image description here](https://lh3.googleusercontent.com/74qazR5unbPXOT3KSjOOzQf0QPzSkFfDyQbSrJYbBikD7WV_7fgsaQYmyHuwpFXChUgTJsWy-v0 "Converting Data Type")
 
-**Note:** Notice the ‘City’ appears next to Abc
+**Note:** Notice the ‘City’ data type appears next to Abc
 
-· Perform the previous step on the ‘Country’ field. This time we will select ‘Country’ as a geographical role.
+· Perform the previous operation on the ‘Country’ field. This time you will select ‘Country’ as the geographical role.
 
 ![enter image description here](https://lh3.googleusercontent.com/74qazR5unbPXOT3KSjOOzQf0QPzSkFfDyQbSrJYbBikD7WV_7fgsaQYmyHuwpFXChUgTJsWy-v0 "Converting Data Type")
 
@@ -64,13 +64,13 @@ A dataframe  ‘customers’ is loaded for you.
 
 **Sample Success Message:**
 
-Awesome! You have just learned how to add cleaning steps to your workflow and to convert fields to the right data type. Cleaner data yields better analysis. Let’s keep up the good work!
+Awesome! You have just learned how to add cleaning steps to your workflow and convert fields to the right data type. Cleaner data yields better analysis. Let’s learn more data cleaning techniques!
 
-**Note:**The exercise above is of an iterative nature and will potentially cover more than one data type example in the same fashion.
+**Note:** The exercise above is of an iterative nature and will potentially cover more than one data type example in the same fashion.
 
-**Motivation for the potential following exercise:**
+**Motivation for potential following exercise:**
 
-Great job your first take at cleaning messy data!  You have probably noticed that the data in the ‘Customer’ dataframe had misspelling errors and was not normalized. The process of catching these errors and fixing them can be very tedious and time consuming. Rest assured; Tableau Prep is coming to the rescue!
+Great job your first take at cleaning messy data!  You have probably noticed that the data in the ‘Customer’ dataframe had misspelling errors and was not normalized. The process of catching these errors and fixing them can be very tedious and time consuming. Rest assured; Tableau Prep is here for the rescue!
 
 
 **Limitations**: In designing this exercise, we assumed that the code editor would play the role of an interactive GUI similar to Tableau Prep in order for the learner to stay within the DataCamp platform. Further options can be contemplated in order to accommodate the integration of similar exercises on DataCamp.
