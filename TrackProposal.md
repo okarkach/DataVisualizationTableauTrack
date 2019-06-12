@@ -1,4 +1,4 @@
-﻿**Data Visualization with Tableau**
+﻿# **Data Visualization with Tableau**
 
 Data Visualization using BI Tools is key to exploring complex problems visually, reporting your findings to stakeholders at all levels, and operationalizing your data models. In this track, you will learn to confidently use Tableau, Tableau prep, TabPy, and others to enhance your data storytelling toolbox by creating interactive Dashboards.
 
@@ -8,7 +8,8 @@ Thought: As a result of the recent aquisition of Tableau by Salesforce, a focus 
 
 Introduction to Tableau 
 
-Description: Learn about what you can achieve with Tableau vizualization tools, how to connect to multiple data sources, and create your first chart
+Description: 
+Learn about what you can achieve with Tableau vizualization tools, how to connect to multiple data sources, and create your first chart
 
 Learning Objectives:
 
@@ -22,7 +23,8 @@ Learning Objectives:
 
 Data Graphics Concepts in Tableau
 
-Description: Learn graphical best practices to create aesthetically compelling visuals
+Description: 
+Learn graphical best practices to create aesthetically compelling visuals
 
 Learning Objectives:
 
@@ -34,9 +36,11 @@ Learning Objectives:
 
 Data Storytelling with Tableau
 
-Prerequisite: Data Graphics Concepts in Tableau
+Prerequisite: 
+Data Graphics Concepts in Tableau
 
-Description: Learn how to tell compelling stories with your data and how to capture your audience’s attention
+Description: 
+Learn how to tell compelling stories with your data and how to capture your audience’s attention
 
 Learning Objectives:
 
@@ -50,7 +54,8 @@ Learning Objectives:
 
 Data Cleansing with Tableau Prep
 
-Description: Use Tableau Prep to easily clean your data and prepare it for data visualization
+Description: 
+Use Tableau Prep to easily clean your data and prepare it for data visualization
 
 Learning Objectives:
 
@@ -66,7 +71,8 @@ Creating and Publishing Tableau Dashboards
 
 Prerequisites: Intro to Tableau
 
-Description: Dashboards are a great way to compile multiple visuals for a comprehensive view of your data. In this course, you will learn to create, design, share, and publish interactive Tableau Dashboards
+Description: 
+Dashboards are a great way to compile multiple visuals for a comprehensive view of your data. In this course, you will learn to create, design, share, and publish interactive Tableau Dashboards
 
 Learning Objectives:
 
@@ -86,7 +92,8 @@ Prerequisites:
 
 - Importing Data in Python
 
-Description: Learn how to use TabPy to integrate Python capabilities to your Tableau Visualizations
+Description:
+Learn how to use TabPy to integrate Python capabilities to your Tableau Visualizations
 
 Learning Objectives:
 
@@ -108,7 +115,8 @@ Prerequisites:
 
 - Advanced Analytics with TabPy I
 
-Description: Learn how to use TabPy to integrate and deploy your machine learning models in your Tableau Dashboards
+Description: 
+Learn how to use TabPy to integrate and deploy your machine learning models in your Tableau Dashboards
 
 Learning Objectives:
  
